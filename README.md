@@ -32,11 +32,11 @@ It integrates sensors, microcontrollers, and cloud-based dashboards for real-tim
 
 ## 📱 Screenshots
 
-<img width="722" height="636" alt="Screenshot 2024-06-21 102955" src="https://github.com/user-attachments/assets/5269fe51-bd12-411e-96c6-d6dbb37552c9" />
-<img width="680" height="569" alt="Screenshot 2024-06-21 103055" src="https://github.com/user-attachments/assets/4d34f2c3-6691-45dc-a063-ab992879a9cd" />
-<img width="884" height="636" alt="Screenshot 2024-06-21 102350" src="https://github.com/user-attachments/assets/32134989-0b63-4541-8c94-d69e80ca96cc" />
-<img width="800" height="812" alt="Screenshot 2024-07-21 175155" src="https://github.com/user-attachments/assets/91847505-3332-4204-b7a7-e27106153cb1" />
-<img width="493" height="737" alt="Screenshot 2024-07-21 180103" src="https://github.com/user-attachments/assets/761858a4-ca95-4227-908c-2609aafdee14" />
+<img width="400" height="400" alt="1" src="https://github.com/user-attachments/assets/5269fe51-bd12-411e-96c6-d6dbb37552c9" />
+<img width="400" height="400" alt="2" src="https://github.com/user-attachments/assets/4d34f2c3-6691-45dc-a063-ab992879a9cd" />
+<img width="400" height="400" alt="3" src="https://github.com/user-attachments/assets/32134989-0b63-4541-8c94-d69e80ca96cc" />
+<img width="400" height="400" alt="4" src="https://github.com/user-attachments/assets/91847505-3332-4204-b7a7-e27106153cb1" />
+<img width="400" height="400" alt="5" src="https://github.com/user-attachments/assets/761858a4-ca95-4227-908c-2609aafdee14" />
 
 
 ## 🔌 Hardware Required
