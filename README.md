@@ -1,4 +1,4 @@
-# SmartStreetLightAutomationusingAIOT
+# SmartStreetLight
 # 🌃 Smart Street Light Automation using AIoT
 
 This project automates street lights using AIoT (Artificial Intelligence of Things) to conserve energy, enhance safety, and detect faults like LED damage.
